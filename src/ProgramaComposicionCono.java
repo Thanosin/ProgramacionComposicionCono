@@ -2,7 +2,7 @@
  * Esta es la clase que representa el programa principal, en él se encuentra un método que imprime los valores
  * que necesitamos por pantalla y el método main que se encarga de que el programa se ejecute.
  *
- * @author Tamara Alonso Perdomo
+ * @author Thanosin
  */
 public class ProgramaComposicionCono {
     /**

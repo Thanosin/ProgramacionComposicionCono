@@ -4,7 +4,7 @@ public class Circulo {
      * clase cono, esta clase también cuenta con métodos que muestran y atribuyen valores a las variables que
      * utiliza esta clase.
      *
-     * @author Tamara Alonso Perdomo
+     * @author Thanosin
      */
     private float x, y;
     private float radio;

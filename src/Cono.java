@@ -3,7 +3,7 @@
  * ver los valores que esta tomando el cono en cuestión y también dispone de un método imprimir que nos
  * muestra estos valores por pantalla.
  *
- * @author Tamara Alonso Perdomo
+ * @author Thanosin
  */
 public class Cono {
     private Circulo base;
